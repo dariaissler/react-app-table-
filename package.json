@@ -2,7 +2,7 @@
   "name": "teble-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dariaissler.github.io/react-app-table",
+  "homepage": "https://dariaissler.github.io/react-app-table-/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
